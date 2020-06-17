@@ -184,6 +184,7 @@ class connecting:
     
 
 def menu():
+    os.mkdir('videos')
     #pr = print_stuff()
     user = input('channel_url:')#'https://www.youtube.com/channel/UCFv1Up3DCWl5LcSDPNwCB6A'
     conn = connecting(user)
