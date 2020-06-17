@@ -1,7 +1,8 @@
 # BombsAway2
 download video and music from youtube 
 
-requires  "ffmpeg.exe"  https://ffmpeg.org/download.html
+requires  "ffmpeg.exe"  https://ffmpeg.org/download.html   put in the same file as BombsAway2.py 
+
 
 modules required 
 
