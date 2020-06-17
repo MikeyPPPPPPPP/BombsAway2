@@ -20,5 +20,5 @@ step2:
 
 step3:
 [0]: go
-
+![Test Image 1](instructions.png)
 
