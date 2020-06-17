@@ -13,10 +13,10 @@ pytube3
 How to use:
 
 step1:
-channel_url:     enter a youtube channel url  ex: https://www.youtube.com/channel/UCFv1Up3DCWl5LcSDPNwCB6A
+channel_url:channel url     enter a youtube channel url  ex: https://www.youtube.com/channel/UCFv1Up3DCWl5LcSDPNwCB6A
 
 step2:
-[0]:      enter the same url  ex: https://www.youtube.com/channel/UCFv1Up3DCWl5LcSDPNwCB6A
+[0]:set "channel url"      enter the same url  ex: https://www.youtube.com/channel/UCFv1Up3DCWl5LcSDPNwCB6A
 
 step3:
 [0]: go
